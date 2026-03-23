@@ -7,7 +7,7 @@
     "description": "A timeless classic, this black velvet t-shirt offers a relaxed fit for ultimate comfort. Crafted from the finest materials, it's a versatile staple for any wardrobe.",
     "rating": 4.8,
     "stock": 50,
-    "image": "/src/assets/images/products/tshirt-1.jpg"
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500"
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
     "description": "Make a statement with this gilded script tee, featuring an elegant design. The soft-touch fabric ensures a luxurious feel against the skin.",
     "rating": 4.7,
     "stock": 50,
-    "image": "/src/assets/images/products/tshirt-2.jpg"
+    "image": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?w=500"
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
     "description": "Experience unparalleled softness with this onyx silk t-shirt. Its minimalist design exudes sophistication and modern elegance.",
     "rating": 4.9,
     "stock": 50,
-    "image": "/src/assets/images/products/tshirt-3.jpg"
+    "image": "https://images.unsplash.com/photo-1503341504253-dff4815485f1?w=500"
   },
   {
     "id": 4,
@@ -37,7 +37,7 @@
     "description": "A pristine ivory tee featuring a subtle crest logo. This piece combines a classic silhouette with a touch of regal charm.",
     "rating": 4.6,
     "stock": 50,
-    "image": "/src/assets/images/products/tshirt-4.jpg"
+    "image": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=500"
   },
   {
     "id": 5,
@@ -47,7 +47,7 @@
     "description": "Expertly crafted, these midnight wash jeans offer a sleek, tailored fit. The deep indigo hue provides a sophisticated alternative to classic denim.",
     "rating": 4.8,
     "stock": 50,
-    "image": "/src/assets/images/products/jeans-1.jpg"
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=500"
   },
   {
     "id": 6,
@@ -57,7 +57,7 @@
     "description": "These slate grey jeans are a modern wardrobe essential. The versatile shade pairs effortlessly with any color palette.",
     "rating": 4.7,
     "stock": 50,
-    "image": "/src/assets/images/products/jeans-2.jpg"
+    "image": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?w=500"
   },
   {
     "id": 7,
@@ -67,7 +67,7 @@
     "description": "Channel a rugged yet refined aesthetic with these distressed indigo jeans. Each pair is uniquely faded for an authentic, lived-in feel.",
     "rating": 4.9,
     "stock": 50,
-    "image": "/src/assets/images/products/jeans-3.jpg"
+    "image": "https://images.unsplash.com/photo-1475178626620-a4d074967452?w=500"
   },
   {
     "id": 8,
@@ -77,7 +77,7 @@
     "description": "Cut for a contemporary slim fit, these onyx jeans are a versatile foundation piece. The stretch-denim construction ensures all-day comfort.",
     "rating": 4.6,
     "stock": 50,
-    "image": "/src/assets/images/products/jeans-4.jpg"
+    "image": "https://images.unsplash.com/photo-1604176354204-9268737828e4?w=500"
   },
   {
     "id": 9,
@@ -87,7 +87,7 @@
     "description": "Inspired by classic motorsport design, these crimson racing loafers are a bold statement piece. The supple leather molds to your foot for a custom-like fit.",
     "rating": 4.9,
     "stock": 50,
-    "image": "/src/assets/images/products/shoes-1.jpg"
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500"
   },
   {
     "id": 10,
@@ -97,7 +97,7 @@
     "description": "Elevate your streetwear game with these gilded high-tops. The metallic accents add a touch of opulence to a classic sneaker silhouette.",
     "rating": 4.7,
     "stock": 50,
-    "image": "/src/assets/images/products/shoes-2.jpg"
+    "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500"
   },
   {
     "id": 11,
@@ -107,7 +107,7 @@
     "description": "Crafted from luxurious onyx suede, these sneakers are the epitome of understated luxury. The minimalist design makes them a versatile choice for any occasion.",
     "rating": 4.8,
     "stock": 50,
-    "image": "/src/assets/images/products/shoes-3.jpg"
+    "image": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?w=500"
   },
   {
     "id": 12,
@@ -117,6 +117,6 @@
     "description": "These pristine ivory leather trainers are a fresh take on a timeless classic. The clean lines and premium materials exude modern elegance.",
     "rating": 4.6,
     "stock": 50,
-    "image": "/src/assets/images/products/shoes-4.jpg"
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=500"
   }
 ]

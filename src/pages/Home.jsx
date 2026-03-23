@@ -15,15 +15,12 @@ const Home = () => {
   return (
     <div className="bg-dark text-white">
       {/* Hero Section */}
-      <section className="relative h-screen flex items-center justify-center">
-        <video
-          className="absolute top-0 left-0 w-full h-full object-cover z-0"
-          src="https://www.pexels.com/video/7710253/download/"
-          autoPlay
-          loop
-          muted
-        />
-        <div className="absolute top-0 left-0 w-full h-full bg-black/60 z-10"></div>
+      <section
+        className="relative h-screen flex items-center justify-center bg-cover bg-center"
+        style={{
+          backgroundImage: `linear-gradient(to bottom, rgba(10, 10, 10, 0.8), rgba(26, 26, 26, 0.8)), url('https://images.unsplash.com/photo-1441984904996-e0b6ba687e04?w=1600')`,
+        }}
+      >
         <div className="relative z-20 text-center space-y-4">
           <p className="text-gold text-lg font-semibold tracking-widest">NEW COLLECTION 2026</p>
           <h1 className="text-5xl md:text-7xl font-extrabold">Elevate Your Style</h1>
