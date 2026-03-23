@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Velvet Noir Tee",
+    "price": 79.99,
+    "category": "T-Shirts",
+    "description": "A timeless classic, this black velvet t-shirt offers a relaxed fit for ultimate comfort. Crafted from the finest materials, it's a versatile staple for any wardrobe.",
+    "rating": 4.8,
+    "stock": 50,
+    "image": "/src/assets/images/products/tshirt-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Gilded Script Tee",
+    "price": 89.99,
+    "category": "T-Shirts",
+    "description": "Make a statement with this gilded script tee, featuring an elegant design. The soft-touch fabric ensures a luxurious feel against the skin.",
+    "rating": 4.7,
+    "stock": 50,
+    "image": "/src/assets/images/products/tshirt-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Onyx Silk Tee",
+    "price": 99.99,
+    "category": "T-Shirts",
+    "description": "Experience unparalleled softness with this onyx silk t-shirt. Its minimalist design exudes sophistication and modern elegance.",
+    "rating": 4.9,
+    "stock": 50,
+    "image": "/src/assets/images/products/tshirt-3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Ivory Crest Tee",
+    "price": 69.99,
+    "category": "T-Shirts",
+    "description": "A pristine ivory tee featuring a subtle crest logo. This piece combines a classic silhouette with a touch of regal charm.",
+    "rating": 4.6,
+    "stock": 50,
+    "image": "/src/assets/images/products/tshirt-4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Midnight Wash Jeans",
+    "price": 149.99,
+    "category": "Jeans",
+    "description": "Expertly crafted, these midnight wash jeans offer a sleek, tailored fit. The deep indigo hue provides a sophisticated alternative to classic denim.",
+    "rating": 4.8,
+    "stock": 50,
+    "image": "/src/assets/images/products/jeans-1.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Slate Grey Denim",
+    "price": 129.99,
+    "category": "Jeans",
+    "description": "These slate grey jeans are a modern wardrobe essential. The versatile shade pairs effortlessly with any color palette.",
+    "rating": 4.7,
+    "stock": 50,
+    "image": "/src/assets/images/products/jeans-2.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Distressed Indigo Jeans",
+    "price": 159.99,
+    "category": "Jeans",
+    "description": "Channel a rugged yet refined aesthetic with these distressed indigo jeans. Each pair is uniquely faded for an authentic, lived-in feel.",
+    "rating": 4.9,
+    "stock": 50,
+    "image": "/src/assets/images/products/jeans-3.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Onyx Slim-Fit Jeans",
+    "price": 139.99,
+    "category": "Jeans",
+    "description": "Cut for a contemporary slim fit, these onyx jeans are a versatile foundation piece. The stretch-denim construction ensures all-day comfort.",
+    "rating": 4.6,
+    "stock": 50,
+    "image": "/src/assets/images/products/jeans-4.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Crimson Racing Loafers",
+    "price": 199.99,
+    "category": "Shoes",
+    "description": "Inspired by classic motorsport design, these crimson racing loafers are a bold statement piece. The supple leather molds to your foot for a custom-like fit.",
+    "rating": 4.9,
+    "stock": 50,
+    "image": "/src/assets/images/products/shoes-1.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Gilded High-Tops",
+    "price": 179.99,
+    "category": "Shoes",
+    "description": "Elevate your streetwear game with these gilded high-tops. The metallic accents add a touch of opulence to a classic sneaker silhouette.",
+    "rating": 4.7,
+    "stock": 50,
+    "image": "/src/assets/images/products/shoes-2.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Onyx Suede Sneakers",
+    "price": 189.99,
+    "category": "Shoes",
+    "description": "Crafted from luxurious onyx suede, these sneakers are the epitome of understated luxury. The minimalist design makes them a versatile choice for any occasion.",
+    "rating": 4.8,
+    "stock": 50,
+    "image": "/src/assets/images/products/shoes-3.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Ivory Leather Trainers",
+    "price": 169.99,
+    "category": "Shoes",
+    "description": "These pristine ivory leather trainers are a fresh take on a timeless classic. The clean lines and premium materials exude modern elegance.",
+    "rating": 4.6,
+    "stock": 50,
+    "image": "/src/assets/images/products/shoes-4.jpg"
+  }
+]
